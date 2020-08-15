@@ -1,0 +1,12 @@
+{
+  "name": "CitizenScience",
+  "displayName": "CitizenScience",
+  "expo": {
+    "name": "CitizenScience",
+    "slug": "CitizenScience",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
