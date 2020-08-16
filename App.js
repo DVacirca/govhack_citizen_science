@@ -191,14 +191,14 @@ const MainScreen = ({ navigation }) => {
       >
         <View style={{ marginRight: 50 }}>
           <Image
-            source={require('./src/assets/mask.svg')}
-            style={{ width: 90, height: 90, paddingRight: 20 }}
+            source={require('./src/assets/nomask.svg')}
+            style={{ width: 90, height: 90 }}
           />
         </View>
         <View style={{}}>
           <Image
-            source={require('./src/assets/nomask.svg')}
-            style={{ width: 90, height: 90 }}
+            source={require('./src/assets/mask.svg')}
+            style={{ width: 90, height: 90, paddingRight: 20 }}
           />
         </View>
       </View>
@@ -256,7 +256,7 @@ export default function App() {
           headerShown: false,
         }}
       >
-        {/* <Stack.Screen name="Intro" component={IntroScreen} /> */}
+        <Stack.Screen name="Intro" component={IntroScreen} />
         <Stack.Screen name="Main" component={MainScreen} />
         <Stack.Screen name="Confirmation" component={ConfirmationScreen} />
       </Stack.Navigator>
