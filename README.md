@@ -1,3 +1,5 @@
+# GovHack 2020 - Citizen Science
+
 # Introduction
 
 Victoria is currently in the middle of their second lockdown and to control the spread of coronavirus, for the first time in history, wearing face coverings is now mandatory for all of Victoria. We spoke to some people in Melbourne, and they’ve seen a lot of people not doing the right thing. There are even anti-mask protestors. Our problem statement is, how do we measure the level of compliance around wearing masks, so that messages provided by the government is effective in keeping people vigilant and doing their part to flatten the curve?
@@ -30,4 +32,10 @@ The data collected will populate a heat map visualization in real-time. Phone GP
   R script for dummy data generating
   https://github.com/Tiantong-W/GovHack-CitizenScience
 
-https://github.com/DVacirca/govhack_citizen_science/blob/master/src/assets/maskCountDemo.gif
+# Team Members
+
+Dante Vacirca
+Mike Edmonds
+Claudia Wang
+Tri Huynh
+Peggy Wei
