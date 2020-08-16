@@ -17,7 +17,7 @@ We’ve created a simple citizen science app called MaskCount where Australians 
 
 The data collected will populate a heat map visualization in real-time. Phone GPS coordinates will be matched to postcode boundaries (https://discover.data.vic.gov.au/dataset/vicmap-admin) This will allow us to demonstrate the proportion of those wearing masks compared to the total individuals observed within all postcodes.
 
-[![Dashboard](https://youtu.be/dFROOQToiVk/0.jpg)](https://youtu.be/dFROOQToiVk "Dashboard")
+[![Dashboard](https://www.youtube.com/watch?v=dFROOQToiVk/0.jpg)](https://www.youtube.com/watch?v=dFROOQToiVk "Dashboard")
 
 # Impact
 
