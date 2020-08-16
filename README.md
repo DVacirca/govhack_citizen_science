@@ -29,7 +29,7 @@ Our citizen science app and the data collected will help scientists in the futur
 
 ![](https://github.com/DVacirca/govhack_citizen_science/blob/master/src/assets/ArchitecturalDiagram.png)
 
-# Githubs
+# Project Repositories
 
 - https://github.com/DVacirca/govhack_citizen_science
 - https://github.com/willymacoy/govhack2020
