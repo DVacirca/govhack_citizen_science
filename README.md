@@ -1,5 +1,7 @@
 # GovHack 2020 - Citizen Science
 
+[![Click for Video](https://github.com/DVacirca/govhack_citizen_science/blob/master/src/assets/ViedoYoutube.png)](https://www.youtube.com/watch?v=mDHmGwBYiac&feature=youtu.be "Click for Video")
+
 https://www.youtube.com/watch?v=mDHmGwBYiac&feature=youtu.be
 
 # Introduction
